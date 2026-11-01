@@ -5,6 +5,8 @@
 
 I learn security by doing it. My projects are hands-on labs and real-world work, including securing the infrastructure of an actual small business I run. Each project documents what I did, *why* I made each security decision, and the problems I hit along the way.
 
+I use AI tools the way many engineers do: as a guide to learn faster and work more efficiently. Every project here is something I built, tested, and can explain in my own words.
+
 ---
 
 ## 📂 Projects
