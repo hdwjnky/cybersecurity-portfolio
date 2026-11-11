@@ -74,7 +74,7 @@ Cloudflare recommends proxying records for DDoS protection and caching. I delibe
 Adds protection against subdomain/domain takeover, a common real-world attack on sites hosted on shared platforms.
 
 **WHOIS redaction**
-The business runs out of a family home, so keeping the registrant address and phone number out of public records was a privacy requirement, not just a preference.
+Keeping the registrant address and phone number out of public records was a privacy requirement, not just a preference.
 
 ## Problems I ran into
 
